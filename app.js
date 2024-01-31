@@ -4,7 +4,7 @@ const router = express.Router();
 const app = express();
 const port = 3000; 
 const tingoApiKey = '1d503bef913af4a4bd75c16cfdc1121182b3c5fd';
-const newsApiKey = process.env.NEWS_API_KEY;
+const newsApiKey = '63406c22d3164512a07d4f308b4510fc';
 
 
 
